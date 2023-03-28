@@ -17,3 +17,5 @@ La sección de Referencias de este repositorio las encontrarás en https://githu
 
 Soy Ricardo Gutiérrez el compañero de Luis Vallarta. Soy Ingeniero en Comunicaciones y Electrónica, me he especializado en temas de administración y finanazas. Actualmente me dedico a la adminsitración de Flotillas de transporte.
 >>>>>>> bfad8be8ead5fee6e2da273d386946e03a865a75
+
+Hola Luis , Soy Daniel Souza, muy agradecido por la invitación.
